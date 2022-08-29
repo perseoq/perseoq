@@ -10,4 +10,4 @@
 - Universitario :hamster: :paw_prints:
 - Matemático :zzz:
 
-[miaubogado](miaubogado.neocities.org)
+[miaubogado](http://miaubogado.neocities.org)
