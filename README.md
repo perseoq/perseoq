@@ -9,4 +9,3 @@
 - Abogado penal :balance_scale:
 - Universitario :hamster: :paw_prints:
 - Matemático :zzz:
-go [tome](https://tome.app/invite/rodrigo-quintanar-clebil7qq22njii5pc3iyg8xk)
