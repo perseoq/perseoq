@@ -1,6 +1,6 @@
 # Hola, soy Rodrigo
 
-### ¿Acerca de mí?
+### Acerca de mí
 
 - Programador Python3 :snake:
 - Programador C++ :computer:
