@@ -1,4 +1,4 @@
-# Hola, soy Rodrigo
+![](https://raw.githubusercontent.com/perseoq/perseoq/main/logo_p.png)
 
 ### Acerca de mí
 
