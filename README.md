@@ -41,7 +41,7 @@ Cronómetro superpuesto
 Alarma personal que uso para estudiar
 
 ### [synu](https://github.com/perseoq/synu) 
-Gestor de versiones para respaldos en `USB`
+Gestor de snapshots para respaldos en `USB`
 
 ### [seek](https://github.com/perseoq/seek) 
 DeepSeek Chat `CLI`
