@@ -52,6 +52,8 @@ DeepSeek Chat `CLI`
 ### [dorf](https://github.com/perseoq/dorf)
 `dorf` (directory or file) es una utilidad de línea de comandos para verificar si una ruta en el sistema de archivos es un directorio, un archivo, o si no existe. 
 
-
 ### [mkservice](https://github.com/perseoq/mkservice)
 `mkservice` es un programa en C++ que permite crear, configurar o gestionar servicios en sistemas Linux de forma automatizada. 
+
+### [study_actions](https://github.com/perseoq/study_actions)
+Bloquea sitios agregando entradas al archivo /etc/hosts 
