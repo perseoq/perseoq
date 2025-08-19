@@ -14,7 +14,7 @@
 - 🎵 [CHAVORUQUIZA UNO en Spotify](https://open.spotify.com/playlist/7v316mefafnAwjOURpFM44?si=2814dfe0097840ff)  
 - 🎵 [CHAVORUQUIZA DOS en Spotify](https://open.spotify.com/playlist/5BT4SsUd1y2Qwl8W3mMUGw?si=03f1b70a8eba45f1)
 
-## Mis proyectos
+## Mis proyectos de uso personal
 
 ### [mkindex](https://github.com/perseoq/mkindex) 
 `mkindex` es una herramienta de línea de comandos escrita en `C++` que genera automáticamente un archivo `index.html` con un índice de todos los documentos `HTML` encontrados en un directorio especificado.
