@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/perseoq/perseoq/main/logo_p.png" width="160" alt="Logo"/>
+  <img src="https://raw.githubusercontent.com/perseoq/perseoq/main/logo_p.png" alt="Logo"/>
 </p>
 
 <h1 align="center">👋 Hola, soy Perseoq</h1>
