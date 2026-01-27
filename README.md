@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/perseoq/perseoq/main/logo_p.png" alt="Logo"/>
-</p>
+
 
 <h1 align="center">👋 Hola, soy Perseoq</h1>
 <p align="center">Programador • Abogado penal • Aprendiz constante</p>
